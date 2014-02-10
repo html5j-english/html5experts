@@ -10,7 +10,7 @@
 
 ## ワークフロー
 
-1. 月初の連載記事掲載後、[本レポジトリのIssues](https://github.com/html5j-english/html5experts/issues)に翻訳候補の記事をリストアップ / 斉藤
+1. 月初の連載記事掲載後、[本レポジトリのIssues](https://github.com/html5j-english/html5experts/issues)に翻訳候補の記事をリストアップ (例: <https://github.com/html5j-english/html5experts/issues/1>) / 斉藤
 2. リストから翻訳したい記事をピックアップし、翻訳する旨Issuesにて宣言してください / 翻訳者
 3. 原作者に翻訳とhtml5experts.jpへの掲載の許可を取ります / 斉藤
 4. 許可が取れ次第、監訳者を募集してください / 翻訳者
