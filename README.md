@@ -30,5 +30,5 @@ html5experts.jpに記事投稿を行えるようにしてもらえるよう編�
 
 翻訳記事には画像が含まれていることもありますので、記事タイトルをディレクトリ名として、画像、そして本文(翻訳文を含む)を格納してください。  
 また、クレジット表記について統一フォーマットを作成しましたので、以下を参照してください。  
-
+<https://github.com/html5j-english/html5experts/blob/master/article.template.md>
 
